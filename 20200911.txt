@@ -1,4 +1,2 @@
 python C:\Users\hana1602a\PythonPractice-201708\200714.py
 
-테스트1
-테스트2
