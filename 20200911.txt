@@ -1,2 +1,0 @@
-python C:\Users\hana1602a\PythonPractice-201708\200714.py
-
