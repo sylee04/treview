@@ -1693,3 +1693,4 @@ endTime = time.strftime("%H_%M_%S")
 
 print(startTime, '→', endTime, ':', str(round(end - start, 2))+'초')
 
+# 20200911 python C:\Users\hana1602a\PythonPractice-201708\200714.py
